@@ -1,4 +1,4 @@
-# HandyConst
+# HandyConst [![Gem Version](https://badge.fury.io/rb/handy_const.png)](http://badge.fury.io/rb/handy_const) [![Build Status](https://travis-ci.org/miraks/handy_const.svg?branch=v0.1.1)](https://travis-ci.org/miraks/handy_const) [![Code Climate](https://codeclimate.com/github/miraks/handy_const.png)](https://codeclimate.com/github/miraks/handy_const)
 
 Easy class and instance methods definition for consts access. And no more freeze!
 
