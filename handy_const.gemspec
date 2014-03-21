@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['a@vldkn.net']
   spec.description   = %q{Define class and instance methods for consts access}
   spec.summary       = %q{Handy const definition}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/miraks/handy_const'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
